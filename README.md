@@ -71,10 +71,18 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+![398304511-b86df11f-9a3e-4faf-943b-d8d473401707](https://github.com/user-attachments/assets/83b2fb88-f634-4591-84e1-c4432426490a)
+![398304538-c73caabd-2a2c-404c-8f7b-ae9afa4fb6cf](https://github.com/user-attachments/assets/6a619c0c-3a7a-41f0-860d-8d07dd73e996)
+
+
 
 # CIRCUIT DIAGRAM:
+![398304584-ef922c32-54fd-40f9-b352-060b4363ad84](https://github.com/user-attachments/assets/fe97840f-b39e-48f4-9129-0d735f2ff60e)
+
 
 # OUTPUT:
+![398304638-d66f4eda-46de-489d-8d06-7fd2c5b1e5f9](https://github.com/user-attachments/assets/bb2f38bc-6435-4025-a2e2-be9fa28e05dc)
+
 
 # RESULT:
 
