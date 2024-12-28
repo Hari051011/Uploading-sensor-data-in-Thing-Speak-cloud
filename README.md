@@ -1,4 +1,7 @@
-# Uploading temperature sensor data in Thing Speak cloud
+NAME:S. hari krishnan
+REG NO:24006616
+
+EXPRIMENT 3: Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
